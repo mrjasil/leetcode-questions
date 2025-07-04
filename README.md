@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/mrjasil/leetcode-questions/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/mrjasil/leetcode-questions/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,9 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mrjasil/leetcode-questions/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/mrjasil/leetcode-questions/tree/master/0231-power-of-two) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mrjasil/leetcode-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/mrjasil/leetcode-questions/tree/master/1603-running-sum-of-1d-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/mrjasil/leetcode-questions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
